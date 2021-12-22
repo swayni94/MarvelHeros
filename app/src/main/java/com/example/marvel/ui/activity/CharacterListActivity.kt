@@ -6,7 +6,6 @@ import android.view.Gravity
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.example.marvel.MarvelApplication
-import com.example.marvel.R
 import com.example.marvel.databinding.ActivityCharacterListBinding
 import com.example.marvel.ui.fragment.CharacterListFragment
 import com.example.marvel.ui.fragment.FavoriteListFragment
